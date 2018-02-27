@@ -24,6 +24,10 @@ in order to run all python scripts to read all the tables simply run
 gnaf_loader/scripts/GNAF_SEQUENCE.py using the python command python GNAF_SEQUENCE.py.
 
 
+the script currently works for Windows and can easily be modified on other systems as long as there is python and postgres
+
 hope this helps! 
+
+
 
 
