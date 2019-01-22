@@ -3,7 +3,7 @@
 #### author: Jubert Roldan
 
 note: once the full folder has been downloaded, user must modify the file locations.
-preferred to create a main folder with 3 folders containg the following:
+preferred to create a main folder with 3 folders containing the following:
 
 1. data
 2. output
@@ -15,8 +15,10 @@ gnaf_loader/
 
 with 3 folders contained
 
-gnaf_loader/data -> this is where the usual GNAF file will be uncompressed after downloading from data.gov.au
+gnaf_loader/data -> this is where the usual GNAF file will be uncompressed after downloading from data.gov.au - https://data.gov.au/dataset/ds-dga-19432f89-dc3a-4ef3-b943-5326ef1dbecc/details?q=gnaf
+
 gnaf_loader/output - this is where python will write the csv output.
+
 gnaf_loader/scripts -> this is where the scripts are contained.
 
 
